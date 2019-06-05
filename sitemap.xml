@@ -2,18 +2,8 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <sitemap>
-        <loc>http://www.kamikakusi.top/post-sitemap.xml</loc>
-        <lastmod>2019-06-05T04:38:43.474Z</lastmod>
-    </sitemap>
-
-    <sitemap>
         <loc>http://www.kamikakusi.top/page-sitemap.xml</loc>
         <lastmod>2019-06-05T05:24:09.443Z</lastmod>
-    </sitemap>
-
-    <sitemap>
-        <loc>http://www.kamikakusi.top/tag-sitemap.xml</loc>
-        <lastmod>2019-06-05T04:38:43.474Z</lastmod>
     </sitemap>
 
 </sitemapindex>
